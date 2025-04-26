@@ -15,13 +15,11 @@
         "culture": 5,
         "uniques": [
             "Provides a [UnHax Mode - Base] in your first [1] cities for free",
-            "Can only be built [in capital]",
-            "Only available <in cities without a [UnHax Mode - Base]>",
-            "Only available <after adopting [Legalism]>",
             "Destroyed when the city is captured",
             "Triggers a global alert upon completion",
             "Cannot be bought",
-            "Unsellable"
+            "Unsellable",
+            "Only available <for players of the [Upside-Down] civilization>"
         ],
         "cost": 696969420,
         "hurryCostModifier": -100
