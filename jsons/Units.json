@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Settler",
+        "unitType": "Civilian",
+        "movement": 2,
+        "cost": 106,
+        "uniques": [
+            "Founds a new city",
+            "Excess Food converted to Production when under construction",
+            "Can move immediately once bought",
+            "Requires at least [2] population"
+        ],
+        "hurryCostModifier": 20
+    },
+    {
+        "name": "Founder",
+        "unitType": "Civilian",
+        "strength": 50,
+        "movement": 10,
+        "cost": 7770000,
+        "uniques": [
+            "Founds a new city",
+            "Excess Food converted to Production when under construction",
+            "Uncapturable",
+            "Can move immediately once bought",
+            "Requires at least [4] population",
+            "All tiles cost 1 movement",
+            "Never appears as a Barbarian unit",
+            "Cannot attack",
+            "Unable to capture cities",
+            "Unbuildable"
+        ],
+        "promotions": [
+            "Founder's Frontier",
+            "Woodsman"
+        ],
+        "hurryCostModifier": 700
+    },
+    {
+        "name": "Great Artist",
+        "unitType": "Civilian",
+        "uniques": [
+            "Can start an [8]-turn golden age",
+            "Can construct [Landmark]",
+            "Great Person - [Culture]",
+            "Can move immediately once bought",
+            "Unbuildable",
+            "Uncapturable"
+        ],
+        "hurryCostModifier": 0
+    }
+]

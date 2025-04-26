@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Tidal Connection",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Coast]",
+            "[+2 Production, +2 Food, +2 Gold, +1 Faith] from every [Ocean]",
+            "+[50]% Strength for units fighting in [Water] tiles"
+        ]
+    },
+    {
+        "name": "The Frozen Mother",
+        "type": "Pantheon",
+        "uniques": [
+            "[+2 Food, +4 Faith] from every [Snow]",
+            "[+2 Production, +4 Faith] from every [Tundra]",
+            "+[50]% Strength for units fighting in [Snow] tiles",
+            "+[50]% Strength for units fighting in [Tundra] tiles"
+        ]
+    },
+    {
+        "name": "Scorching Saint",
+        "type": "Pantheon",
+        "uniques": [
+            "[+7 Production, +7 Faith, +7 Science, +7 Gold] from every [Krakatoa]",
+            "[+7 Production, +7 Faith, +7 Science, +7 Culture] from every [Mount Fuji]",
+            "[+5 Gold, +5 Food, +5 Faith] from every [Desert]",
+            "+[50]% Strength for units fighting in [Desert] tiles"
+        ]
+    },
+    {
+        "name": "God-King",
+        "type": "Pantheon",
+        "uniques": [
+            "[+5 Faith, +2 Gold, +2 Food, +2 Production, +2 Happiness, +2 Culture, +2 Science] <in cities with a [Palace]> <before the [Modern era]>",
+            "[+10 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] <in cities with a [Palace]> <starting from the [Modern era]>",
+            "[+5 Faith, +5 Gold, +5 Food, +5 Production, +5 Happiness, +5 Culture, +5 Science] [in other cities] <starting from the [Modern era]>"
+        ]
+    }
+]
