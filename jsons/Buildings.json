@@ -1,0 +1,256 @@
+[
+    {
+        "name": "UnHax Mode - Access",
+        "civilopediaText": [
+            {
+                "text": "The gateway of UnHax, it allows every players, AI included, to access the extreme amount of cheats that cannot be accessed immediately.",
+                "starred": true
+            },
+            {
+                "text": "Direct access to the Base building has been removed as of v1.18. You can obtain the cheats by adopting the Legalism social policy, provided there are no other 'cultural' buildings (buildings that provide Culture, and are not wonders) available for construction.",
+                "starred": true,
+                "color": "red"
+            }
+        ],
+        "culture": 5,
+        "uniques": [
+            "Provides a [UnHax Mode - Base] in your first [1] cities for free",
+            "Only available <in cities without a [UnHax Mode - Base]>",
+            "Only available <after adopting [Legalism]>",
+            "Destroyed when the city is captured",
+            "Triggers a global alert upon completion",
+            "Cannot be bought",
+            "Unsellable",
+            "Only available <for human players>"
+        ],
+        "cost": 696969420,
+        "hurryCostModifier": -100
+    },
+    {
+        "name": "UnHax Mode - Base",
+        "civilopediaText": [
+            {
+                "text": "The main building; it provides all stats except Faith, unit XP, great person points, unit promotions, and specialist slots in large quantities. Limited to capital city, cannot be sold, destroyed when capital falls.",
+                "starred": true
+            }
+        ],
+        "gold": 4206970,
+        "culture": 6900,
+        "science": 7777,
+        "food": 4200,
+        "production": 6900,
+        "happiness": 6900,
+        "greatPersonPoints": {
+            "Great Scientist": 60,
+            "Great Artist": 60,
+            "Great Merchant": 60,
+            "Great Engineer": 60
+        },
+        "specialistSlots": {
+            "Scientist": 5,
+            "Artist": 5,
+            "Merchant": 5,
+            "Engineer": 5
+        },
+        "uniques": [
+            "[3] free [Founder] units appear",
+            "[+9] population [in this city]",
+            "[+690 Culture] [in all cities]",
+            "[+777 Science] [in all cities]",
+            "[+690 Production] [in all cities]",
+            "[+420 Food] [in all cities]",
+            "[+42000 Gold] [in all cities]",
+            "[+690 Happiness] [in all cities]",
+            "May buy [UnHax Mode - Military] buildings for [0] [Gold] [in all cities]",
+            "May buy [UnHax Mode - Monotheistic Religion] buildings for [0] [Gold] [in this city]",
+            "May buy [UnHax Mode - Polytheistic Religion] buildings for [0] [Gold] [in this city]",
+            "May buy [UnHax Mode - Enhancement] buildings for [0] [Gold] [in this city]",
+            "May buy [Founder] units for [10000000] [Gold] [in all cities]",
+            "All newly-trained [{non-air} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
+            "All newly-trained [{Fighter} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
+            "All newly-trained [{Bomber} {Military}] units [in this city] receive the [Home Sweet Home] promotion",
+            "New [Military] units start with [420] Experience [in all cities]",
+            "Damage is ignored when determining unit Strength <for [All] units>",
+            "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
+            "Provides a [UnHax Mode - Military] in your first [5] cities for free",
+            "[{Fighter} {Military}] units gain the [Rejuvenation] promotion",
+            "[{Bomber} {Military}] units gain the [Rejuvenation] promotion",
+            "[Civilian] units gain the [Civilian Assistance] promotion",
+            "[{Land} {Civilian}] units gain the [Enhanced Vision] promotion",
+            "[{Water} {Civilian}] units gain the [Better Wayfinding] promotion",
+            "Destroyed when the city is captured",
+            "Triggers a global alert upon completion",
+            "Unsellable",
+            "Unbuildable",
+            "Only available <for human players>"
+        ],
+        "cost": 0
+    },
+    {
+        "name": "UnHax Mode - Polytheistic Religion",
+        "civilopediaText": [
+            {
+                "text": "A building for religion-enabled games, generating Faith and allowing immediate founding and enhancing of religions. Similar limitations to the main building, but unbuildable, can be bought once the base is built.",
+                "starred": true
+            },
+            {
+                "text": "Polytheistic variant; provides bonuses similar to the pre-v1.10 Religion building.",
+                "starred": true
+            }
+        ],
+        "faith": 1000,
+        "uniques": [
+            "[2] free [Great Prophet] units appear",
+            "May choose [2] additional [Pantheon] beliefs when [founding] a religion",
+            "May choose [2] additional [Follower] beliefs when [enhancing] a religion",
+            "May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
+            "May not generate great prophet equivalents naturally",
+            "May buy [Great Prophet] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Scientist] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Artist] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Merchant] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Engineer] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great General] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Spacefarer] units for [100] [Faith] [at increasing price (50)]",
+            "[Faith] cost of purchasing [Civilian] units [-75]%",
+            "[+1000 Faith] [in all cities]",
+            "Only available <in cities without a [UnHax Mode - Monotheistic Religion]>",
+            "Hidden when religion is disabled",
+            "Destroyed when the city is captured",
+            "Unbuildable",
+            "Unsellable",
+            "Only available <for human players>"
+        ],
+        "maintenance": 7777,
+        "cost": 0
+    },
+    {
+        "name": "UnHax Mode - Monotheistic Religion",
+        "civilopediaText": [
+            {
+                "text": "A building for religion-enabled games, generating Faith massively, allows for founding/enhancing religions. Similar to the Polytheistic variant but provides different belief slots.",
+                "starred": true
+            },
+            {
+                "text": "Monotheistic variant; provides different additional beliefs than the Polytheistic version.",
+                "starred": true
+            }
+        ],
+        "faith": 1000,
+        "uniques": [
+            "[2] free [Great Prophet] units appear",
+            "May choose [2] additional [Founder] beliefs when [founding] a religion",
+            "May choose [2] additional [Follower] beliefs when [enhancing] a religion",
+            "May choose [2] additional [Enhancer] beliefs when [enhancing] a religion",
+            "May not generate great prophet equivalents naturally",
+            "May buy [Great Prophet] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Scientist] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Artist] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Merchant] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Engineer] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great General] units for [100] [Faith] [at increasing price (50)]",
+            "May buy [Great Spacefarer] units for [100] [Faith] [at increasing price (50)]",
+            "[Faith] cost of purchasing [Civilian] units [-75]%",
+            "[+1000 Faith] [in all cities]",
+            "Only available <in cities without a [UnHax Mode - Polytheistic Religion]>",
+            "Hidden when religion is disabled",
+            "Destroyed when the city is captured",
+            "Unbuildable",
+            "Unsellable",
+            "Only available <for human players>"
+        ],
+        "maintenance": 7777,
+        "cost": 0
+    },
+    {
+        "name": "UnHax Mode - Military",
+        "civilopediaText": [
+            {
+                "text": "A military-oriented building providing free promotions, increased city strength and city health. Can be built on all cities by buying it with Gold after the base is built.",
+                "starred": true
+            }
+        ],
+        "cityStrength": 365,
+        "cityHealth": 3650,
+        "specialistSlots": {
+            "Scientist": 5,
+            "Artist": 5,
+            "Merchant": 5,
+            "Engineer": 5
+        },
+        "uniques": [
+            "New [Military] units start with [420] Experience [in this city]",
+            "No movement cost to pillage <for [Melee] units>",
+            "Great General provides double combat bonus",
+            "[200]% XP gained from combat <for [Military] units>",
+            "All newly-trained [{non-air} {Military}] units receive [Panacea's Gift] promotion",
+            "All newly-trained [{non-air} {Military}] units receive [Morale] promotion",
+            "All newly-trained [{non-air} {Military}] units receive [Great Generals I] promotion",
+            "All newly-trained [{non-air} {Military}] units receive [Great Generals II] promotion",
+            "All newly-trained [{non-air} {Military}] units receive [Haka War Dance] promotion",
+            "All newly-trained [{Land} {Military}] units receive [Enhanced Vision] promotion",
+            "All newly-trained [{Water} {Military}] units receive [Better Wayfinding] promotion",
+            "All newly-trained [{Fighter} {Military}] units receive [Improved Radar] promotion",
+            "All newly-trained [{Bomber} {Military}] units receive [Improved Radar] promotion",
+            "All newly-trained [{non-air} {Military}] units receive [Mastery of War] promotion",
+            "All newly-trained [{Fighter} {Military}] units receive [Air Superiority] promotion",
+            "All newly-trained [{Bomber} {Military}] units receive [Air Superiority] promotion",
+            "All newly-trained [{Missile} {Military}] units receive [Brilliant Detonation] promotion",
+            "All newly-trained [{Atomic Bomber} {Military}] units receive [Brilliant Detonation] promotion",
+            "Destroyed when the city is captured",
+            "Unbuildable",
+            "Unsellable",
+            "Only available <for human players>"
+        ],
+        "maintenance": 357,
+        "cost": 0
+    },
+    {
+        "name": "UnHax Mode - Enhancement",
+        "civilopediaText": [
+            {
+                "text": "A building with assorted bonuses to strengthen Military, Religion, and main buildings bonuses. No religious restrictions required.",
+                "starred": true
+            }
+        ],
+        "uniques": [
+            "Free Technology",
+            "[+120]% [Gold] [in all cities]",
+            "[+120]% [Science] [in all cities]",
+            "[+120]% [Culture] [in all cities]",
+            "[+120]% [Production] [in all cities]",
+            "[+120]% [Food] [in all cities]",
+            "[+120]% [Faith] [in all cities]",
+            "[+120]% [Happiness] [in all cities]",
+            "[-75]% tile improvement construction time",
+            "[200]% Golden Age length",
+            "[+50]% growth [in all cities]",
+            "[+150]% Strength for cities <when defending>",
+            "Population loss from nuclear attacks [-300]% [in all cities]",
+            "[-100]% maintenance cost for buildings [in all cities]",
+            "[100]% maintenance on road & railroads",
+            "Defense bonus when embarked <for [All] units>",
+            "[{non-air} {Military}] units gain the [Capture Master] promotion",
+            "[{Aircraft} {Military}] units gain the [Capture Master] promotion",
+            "[{non-air} {Military}] units gain the [Quick Study] promotion",
+            "[{Fighter} {Military}] units gain the [Quick Study] promotion",
+            "[{Bomber} {Military}] units gain the [Quick Study] promotion",
+            "[{non-air} {Military}] units gain the [Pictish Courage] promotion",
+            "Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns.",
+            "Double quantity of [Horses] produced",
+            "Double quantity of [Iron] produced",
+            "Double quantity of [Coal] produced",
+            "Double quantity of [Oil] produced",
+            "Double quantity of [Aluminum] produced",
+            "Double quantity of [Uranium] produced",
+            "[+100]% Yield from every [Natural Wonder]",
+            "Reveals the entire map",
+            "Destroyed when the city is captured",
+            "Unbuildable",
+            "Unsellable",
+            "Only available <for human players>"
+        ],
+        "maintenance": 6969,
+        "cost": 0
+    }
+]
