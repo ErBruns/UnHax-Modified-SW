@@ -50,13 +50,13 @@
             }
         ],
         "culture": 5,
+	"uniqueTo": "Upside-Down",
         "uniques": [
             "Provides a [UnHax Mode - Base] in your first [1] cities for free",
             "Destroyed when the city is captured",
             "Triggers a global alert upon completion",
             "Cannot be bought",
             "Unsellable",
-            "Only available <for human players>"
         ],
         "cost": 696969420,
         "hurryCostModifier": -100
@@ -69,6 +69,7 @@
                 "starred": true
             }
         ],
+	"uniqueTo": "Upside-Down",
         "gold": 4206970,
         "culture": 6900,
         "science": 7777,
@@ -118,7 +119,6 @@
             "Triggers a global alert upon completion",
             "Unsellable",
             "Unbuildable",
-            "Only available <for human players>"
         ],
         "cost": 0
     },
@@ -155,7 +155,6 @@
             "Destroyed when the city is captured",
             "Unbuildable",
             "Unsellable",
-            "Only available <for human players>"
         ],
         "maintenance": 7777,
         "cost": 0
@@ -193,7 +192,6 @@
             "Destroyed when the city is captured",
             "Unbuildable",
             "Unsellable",
-            "Only available <for human players>"
         ],
         "maintenance": 7777,
         "cost": 0
@@ -236,7 +234,6 @@
             "Destroyed when the city is captured",
             "Unbuildable",
             "Unsellable",
-            "Only available <for human players>"
         ],
         "maintenance": 357,
         "cost": 0
@@ -284,7 +281,6 @@
             "Destroyed when the city is captured",
             "Unbuildable",
             "Unsellable",
-            "Only available <for human players>"
         ],
         "maintenance": 6969,
         "cost": 0
