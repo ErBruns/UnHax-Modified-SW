@@ -52,8 +52,6 @@
         "culture": 5,
         "uniques": [
             "Provides a [UnHax Mode - Base] in your first [1] cities for free",
-            "Can only be built [in your cities]",
-            "Only available <in cities without a [UnHax Mode - Base]>",
             "Destroyed when the city is captured",
             "Triggers a global alert upon completion",
             "Cannot be bought",
@@ -117,7 +115,6 @@
             "[{Land} {Civilian}] units gain the [Enhanced Vision] promotion",
             "[{Water} {Civilian}] units gain the [Better Wayfinding] promotion",
             "Destroyed when the city is captured",
-            "Can only be built [in your cities]",
             "Triggers a global alert upon completion",
             "Unsellable",
             "Unbuildable",
