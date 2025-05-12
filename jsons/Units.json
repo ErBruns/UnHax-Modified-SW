@@ -39,6 +39,7 @@
     {
         "name": "Great Artist",
         "unitType": "Civilian",
+        "movement": 20,
         "uniques": [
             "Can start an [8]-turn golden age",
             "Can construct [Landmark]",
