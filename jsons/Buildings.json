@@ -261,7 +261,7 @@
             "[+150]% Strength for cities <when defending>",
             "Population loss from nuclear attacks [-300]% [in all cities]",
             "[-100]% maintenance cost for buildings [in all cities]",
-            "[-100]% maintenance on road & railroads",
+            "[-80]% maintenance on road & railroads",
             "Defense bonus when embarked <for [All] units>",
             "[{non-air} {Military}] units gain the [Capture Master] promotion",
             "[{Aircraft} {Military}] units gain the [Capture Master] promotion",
