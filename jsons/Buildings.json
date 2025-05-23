@@ -69,7 +69,6 @@
                 "starred": true
             }
         ],
-	"uniqueTo": "Upside-Down",
         "gold": 4206970,
         "culture": 6900,
         "science": 7777,
@@ -77,16 +76,20 @@
         "production": 6900,
         "happiness": 6900,
         "greatPersonPoints": {
-            "Great Scientist": 60,
-            "Great Artist": 60,
-            "Great Merchant": 60,
-            "Great Engineer": 60
+            "Tech": 60,
+            "Virtue": 60,
+            "Credits": 60,
+            "Production": 60,
+	    "Health":60,
+	    "Supply":60,
         },
         "specialistSlots": {
-            "Scientist": 5,
-            "Artist": 5,
-            "Merchant": 5,
-            "Engineer": 5
+            "Tech": 5,
+            "Vitue": 5,
+            "Credits": 5,
+            "Production": 5,
+	    "Health": 5,
+	    "Supply": 5,
         },
         "uniques": [
             "[3] free [Founder] units appear",
@@ -95,7 +98,7 @@
             "[+777 Science] [in all cities]",
             "[+690 Production] [in all cities]",
             "[+420 Food] [in all cities]",
-            "[+42000 Gold] [in all cities]",
+            "[+10000 Gold] [in all cities]",
             "[+690 Happiness] [in all cities]",
             "May buy [UnHax Mode - Military] buildings for [0] [Gold] [in all cities]",
             "May buy [UnHax Mode - Access] buildings for [0] [Gold] [in all cities]",
